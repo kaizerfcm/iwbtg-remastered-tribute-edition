@@ -7,7 +7,7 @@ Native PS5 homebrew port of *I Wanna Be The Guy: Remastered*, version 1.6.6.6, w
 ## Download (v1.6.6.6)
 | Platform | File |
 | --- | --- |
-| PS5 (title ID PPSA99099) | [IWBTGR-TributeEdition-PS5-PPSA99099.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/IWBTGR-TributeEdition-PS5-PPSA99099.zip) |
+| PS5 (title ID PPSA99616) | [IWBTGR-TributeEdition-PS5-PPSA99616.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/IWBTGR-TributeEdition-PS5-PPSA99616.zip) |
 | Windows x64 | [IWBTGR-TributeEdition-win64.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/IWBTGR-TributeEdition-win64.zip) |
 | Linux x64 | [IWBTGR-TributeEdition-linux-x64.tar.gz](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/IWBTGR-TributeEdition-linux-x64.tar.gz) |
 
@@ -21,11 +21,13 @@ Checksums: [SHA256SUMS.txt](https://github.com/kaizerfcm/iwbtg-remastered-tribut
 
 ## Install
 **PS5**
-1. Unzip `IWBTGR-TributeEdition-PS5-PPSA99099.zip`.
-2. Copy the `PPSA99099` folder to `/data/homebrew/` on the console.
+1. Unzip `IWBTGR-TributeEdition-PS5-PPSA99616.zip`.
+2. Copy the `PPSA99616` folder to `/data/homebrew/` on the console.
 3. Let ShadowMountPlus scan (or reboot). The game appears on the home screen.
 
 To update, copy the new folder over the old one. Saves are kept in `/data/iwbtgr/save`.
+If you installed the `PPSA99099` folder earlier on 24 October 2026, copy `PPSA99616` and then delete
+`/data/homebrew/PPSA99099`; your saves stay where they are.
 
 **Windows:** unzip and run `IWBTGR.exe`. **Linux:** extract and run `./iwbtgr.sh`.
 
