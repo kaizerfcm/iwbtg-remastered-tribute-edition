@@ -46,10 +46,10 @@ Controls can be remapped in *Options*. On PC, F11 toggles fullscreen. Controller
 - Michael "Kayin" O'Reilly: *I Wanna Be The Guy*
 - Cherry Treehouse: *I Wanna Be The Guy: Remastered* (Natsu & Renko, Floogle & renex, Midoru, Koala,
   Roaming97 and everyone in the game's credits)
-- Wolfpac Gaming Studio: *I Wanna be the Tribute*
-- Versão Brasihueira (Vitor F. Rossi): the Brazilian Portuguese dub of the Dracula scene, from
-  *"Castelo Vânia: Sinfonia da Noite"* (2013)
-- shaman: version 1.6.6.6, the PS5 and PC editions
+- shaman, back then as Wolfpac Gaming Studio: *I Wanna be the Tribute*
+- shaman: the version 1.6.6.6 patch and extras (PS5 and PC editions)
+- Emoji graphics: [Twemoji](https://github.com/jdecked/twemoji) by Twitter, Inc and other contributors,
+  licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Built with the [PS5 payload SDK](https://github.com/ps5-payload-dev/sdk) and SDL2.
 
 ## Source
