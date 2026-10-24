@@ -48,7 +48,7 @@ Controls can be remapped in *Options*. On PC, F11 toggles fullscreen. Controller
 - Michael "Kayin" O'Reilly: *I Wanna Be The Guy*
 - Cherry Treehouse: *I Wanna Be The Guy: Remastered* (Natsu & Renko, Floogle & renex, Midoru, Koala,
   Roaming97 and everyone in the game's credits)
-- shaman, back then as Wolfpac Gaming Studio: *I Wanna be the Tribute*
+- shaman: *I Wanna be the Tribute*
 - shaman: the version 1.6.6.6 patch and extras (PS5 and PC editions)
 - Emoji graphics: [Twemoji](https://github.com/jdecked/twemoji) by Twitter, Inc and other contributors,
   licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
