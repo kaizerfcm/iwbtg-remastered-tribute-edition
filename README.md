@@ -19,12 +19,12 @@ Also on itch.io: [shmshp.itch.io/iwbtgrt](https://shmshp.itch.io/iwbtgrt)
 ## Download (v1.6.6.6)
 | Platform | File |
 | --- | --- |
-| PS5 (title ID PPSA99616) | [IWBTGR-TributeEdition-PS5-PPSA99616.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/IWBTGR-TributeEdition-PS5-PPSA99616.zip) |
+| PS5 (title ID PPSA99616) | [IWBTGR-TributeEdition-PS5-PPSA99616.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6-tribute-ps5/IWBTGR-TributeEdition-PS5-PPSA99616.zip) |
 | Windows x64 | [IWBTGR-TributeEdition-win64.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-windows/releases/download/v1.6.6.6/IWBTGR-TributeEdition-win64.zip) |
 | Linux x64 | [IWBTGR-TributeEdition-linux-x64.tar.gz](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-linux/releases/download/v1.6.6.6/IWBTGR-TributeEdition-linux-x64.tar.gz) |
 | Nintendo Switch (homebrew) | [IWBTGR-TributeEdition-Switch.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-switch/releases/download/v1.6.6.6/IWBTGR-TributeEdition-Switch.zip) |
 
-Checksums: [SHA256SUMS.txt](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/SHA256SUMS.txt) for the PS5 release; each platform repository's release lists its own.
+Checksums: [SHA256SUMS.txt](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6-tribute-ps5/SHA256SUMS.txt) for the PS5 release; each platform repository's release lists its own.
 
 ## Requirements
 - **PS5:** a jailbroken console with a homebrew payload loader (for example etaHEN or elfldr), ShadowMountPlus
