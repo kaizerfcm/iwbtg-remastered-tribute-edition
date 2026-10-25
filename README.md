@@ -2,17 +2,29 @@
 
 <img src="sce_sys/icon0.png" width="128" align="right">
 
-Native PS5 homebrew port of *I Wanna Be The Guy: Remastered*, version 1.6.6.6, with Windows and Linux builds.
+Native PS5 homebrew port of *I Wanna Be The Guy: Remastered*, version 1.6.6.6. This repository hosts the PS5 release;
+each other platform has its own release repository.
+
+## Platforms
+| Platform | Repository |
+| --- | --- |
+| PS5 (title ID PPSA99616) | this repository, [kaizerfcm/iwbtg-remastered-tribute-edition](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition) |
+| Windows x64 | [kaizerfcm/iwbtg-remastered-tribute-edition-windows](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-windows) |
+| Linux x64 | [kaizerfcm/iwbtg-remastered-tribute-edition-linux](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-linux) |
+| Nintendo Switch (homebrew) | [kaizerfcm/iwbtg-remastered-tribute-edition-switch](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-switch) |
+| Android | [kaizerfcm/iwbtg-remastered-tribute-edition-android](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-android) (no release yet) |
+
+Also on itch.io: [shmshp.itch.io/iwbtgrt](https://shmshp.itch.io/iwbtgrt)
 
 ## Download (v1.6.6.6)
 | Platform | File |
 | --- | --- |
 | PS5 (title ID PPSA99616) | [IWBTGR-TributeEdition-PS5-PPSA99616.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/IWBTGR-TributeEdition-PS5-PPSA99616.zip) |
-| Windows x64 | [IWBTGR-TributeEdition-win64.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/IWBTGR-TributeEdition-win64.zip) |
-| Linux x64 | [IWBTGR-TributeEdition-linux-x64.tar.gz](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/IWBTGR-TributeEdition-linux-x64.tar.gz) |
-| Nintendo Switch (homebrew) | [IWBTGR-TributeEdition-Switch.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/tag/v1.6.6.6-switch) |
+| Windows x64 | [IWBTGR-TributeEdition-win64.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-windows/releases/download/v1.6.6.6/IWBTGR-TributeEdition-win64.zip) |
+| Linux x64 | [IWBTGR-TributeEdition-linux-x64.tar.gz](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-linux/releases/download/v1.6.6.6/IWBTGR-TributeEdition-linux-x64.tar.gz) |
+| Nintendo Switch (homebrew) | [IWBTGR-TributeEdition-Switch.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-switch/releases/download/v1.6.6.6/IWBTGR-TributeEdition-Switch.zip) |
 
-Checksums: [SHA256SUMS.txt](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/SHA256SUMS.txt)
+Checksums: [SHA256SUMS.txt](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6/SHA256SUMS.txt) for the PS5 release; each platform repository's release lists its own.
 
 ## Requirements
 - **PS5:** a jailbroken console with a homebrew payload loader (for example etaHEN or elfldr), ShadowMountPlus
