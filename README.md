@@ -12,7 +12,7 @@ each other platform has its own release repository.
 | Windows x64 | [kaizerfcm/iwbtg-remastered-tribute-edition-windows](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-windows) |
 | Linux x64 | [kaizerfcm/iwbtg-remastered-tribute-edition-linux](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-linux) |
 | Nintendo Switch (homebrew) | [kaizerfcm/iwbtg-remastered-tribute-edition-switch](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-switch) |
-| Android | [kaizerfcm/iwbtg-remastered-tribute-edition-android](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-android) (no release yet) |
+| Android | [kaizerfcm/iwbtg-remastered-tribute-edition-android](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-android) ([v1.6.6.6 release](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-android/releases/tag/v1.6.6.6)) |
 
 Also on itch.io: [shmshp.itch.io/iwbtgrt](https://shmshp.itch.io/iwbtgrt)
 
@@ -23,6 +23,7 @@ Also on itch.io: [shmshp.itch.io/iwbtgrt](https://shmshp.itch.io/iwbtgrt)
 | Windows x64 | [IWBTGR-TributeEdition-win64.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-windows/releases/download/v1.6.6.6/IWBTGR-TributeEdition-win64.zip) |
 | Linux x64 | [IWBTGR-TributeEdition-linux-x64.tar.gz](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-linux/releases/download/v1.6.6.6/IWBTGR-TributeEdition-linux-x64.tar.gz) |
 | Nintendo Switch (homebrew) | [IWBTGR-TributeEdition-Switch.zip](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-switch/releases/download/v1.6.6.6/IWBTGR-TributeEdition-Switch.zip) |
+| Android | [IWBTGR-TributeEdition-Android.apk](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-android/releases/download/v1.6.6.6/IWBTGR-TributeEdition-Android.apk) |
 
 Checksums: [SHA256SUMS.txt](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6-tribute-ps5/SHA256SUMS.txt) for the PS5 release; each platform repository's release lists its own.
 
@@ -31,6 +32,7 @@ Checksums: [SHA256SUMS.txt](https://github.com/kaizerfcm/iwbtg-remastered-tribut
   (or another tool that registers apps from `/data/homebrew`), and FTP or a USB drive to copy the files.
 - **Windows:** Windows 10/11 x64.
 - **Linux:** x64 with glibc 2.38 or newer (Ubuntu 24.04, Fedora 39, Debian 13 or later). SDL2 is included.
+- **Android:** Android 7.0 or newer (arm64-v8a or armeabi-v7a), sideloaded.
 
 ## Install
 **PS5**
@@ -43,6 +45,9 @@ If you installed the `PPSA99099` folder earlier on 24 October 2026, copy `PPSA99
 `/data/homebrew/PPSA99099`; your saves stay where they are.
 
 **Windows:** unzip and run `IWBTGR.exe`. **Linux:** extract and run `./iwbtgr.sh`.
+
+**Android:** allow installing unknown apps, then open the APK (or `adb install` it). If you had an earlier
+debug-signed test APK installed, uninstall it first (the release is signed with a new key).
 
 ## Controls
 | PS5 | PC (default) | Action |
